@@ -1,0 +1,102 @@
+/* topnav */
+#topnav{
+	
+	}
+
+#topnav ul {
+	margin-left: 1450px;
+}
+#topnav li{
+	display:inline;
+ 	padding: 0px 10px;
+	float:;
+}
+
+/*links */
+a{text-decoration: none;}
+
+a:visited{
+	color:purple;
+}
+
+a:link{
+	color:black;
+}
+a:hover{
+	color:blue;
+}
+
+
+
+/*search bar */
+ .logo {
+ 	position: relative;
+	height: 220px;
+	width: 550px;
+  	top: 30%;
+  	left: 45%;
+  	margin-top: 20px;
+  	margin-left: -100px;
+}
+input[type=text]{
+	position: relative;
+  	top: 45%;
+  	left: 45%;
+  	margin-top: 10px;
+  	margin-left: -100px;
+  	height:15px;
+  	width:550px;
+  	border-color: #d3d3d3;
+
+}
+
+#searchbutton{
+position:relative;
+width:400px;
+margin:350px 800px;
+margin-top:25px;
+margin-left: 850px;
+}
+
+button{
+padding: 0px 50px;
+display:inline;
+background-color:#d2d2d2;
+} 
+.search:hover{
+font-color:black;
+border:solid #d3d3d3;
+}
+
+.lucky:hover{
+font-color:black;
+border:solid #d3d3d3;
+}
+
+/* Footer */
+
+#footer{
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    min-width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.right{
+	float: right;
+    margin: 0;
+    margin-right: 20px;
+}
+.left{
+	float:left;
+	margin: 0;
+	
+}
+li{
+display: inline-block;
+vertical-align: middle;
+margin-right: 10px;
+}
+
+.
